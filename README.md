@@ -8,7 +8,6 @@ I build scalable web applications and AI-driven systems that solve real-world pr
 From automation platforms to intelligent distributed systems, I focus on creating **impactful, production-ready solutions**.
 
 🏆 2× Hackathon Winner  
-🏅 Top 5 @ GDG Hackathon  
 ⚡ Co-founder @ initcodes (Web, App & Automation Solutions)  
 💡 Currently working on AI systems, real-time apps, and scalable backend architectures  
 
